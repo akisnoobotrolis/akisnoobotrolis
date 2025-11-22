@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Athanasios Genidounias</h1>
 <h3 align="center">A Software Developer from Greece</h3>
 
-- 🔭 I’m currently working as Sword Group Employee on [MyEPO Portfolio](https://www.epo.org/en/applying/myepo-services/interact) and also on my personal Project [Preze-Forecast](https://preze-forecast.com)
+- 🔭 I’m currently working as Cognity Employee for General Chemical Service Laboratory of Greece  and also I am working on my thesis
 
 - 🌱 I love learning **Java, C++ and Python**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available here on GitHub [https://github.com/akisnoobotrolis/akisnoobotrolis](https://github.com/akisnoobotrolis?tab=repositories)
 
-- 📫You can reach me **akisnoobotrolis@gmail.com** or **ice20390033@uniwa.gr** 
+- 📫You can reach me **akisnoobotrolis@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/akisnoobotrolis/akisnoobotrolis/blob/main/AthanasiosGenidouniasCV.pdf](https://github.com/akisnoobotrolis/akisnoobotrolis/blob/main/AthanasiosGenidouniasCV.pdf)
 
